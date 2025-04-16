@@ -1,0 +1,58 @@
+.post{
+    background-color: rgba(148, 14, 14, 0.863); 
+    padding: 5%;
+}
+
+
+.post-img{
+    width: 600px;    
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+img {
+    width: 100%;
+   
+}
+.superior {
+    background:white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 5px;
+}
+.post-header{
+        width: 600px;
+        right: 200px;
+        margin: auto;
+        background-color: white;
+}
+.logo{
+    width:30px;
+    right: 30px;
+}
+.logo2, .logo3{
+    width: 30px;
+    right: 30px;
+    margin: 4px;
+    
+}
+.inferior  {
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.lado-izquierdo, .lado-derecho{
+    display: flex;
+    align-items: center;
+
+}
+p{
+    margin: 5px;
+    padding: 5px;
+}
